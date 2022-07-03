@@ -33,6 +33,10 @@ endif::[]
 
 toc::[]
 
+Repository: {git-metadata-remotes-origin}[
+GitHub
+]
+
 *TODO: Summary*
 
 In the meantime:
